@@ -1,0 +1,120 @@
+
+h1{
+    margin: 50px auto 0px auto;
+    font-family: 'sacramento';
+    font-size:5.62em;
+    color:  #40513B;
+    
+}
+body{
+    margin: 0px;
+    text-align: center;
+    font-family:'Merriweather',serif;
+}
+h2{
+    font-size: 2.5rem;
+    color: #40513B;
+    font-weight: normal;
+}
+.topcontainer{
+        background-color:#9DC08B;
+        position: relative;
+        padding-top: 50px ;
+}
+.bottomcloud{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+.topcloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+h2,h3{
+    font-family: 'Montserrat';
+    
+}
+h3{
+    color: #609966;
+}
+a{
+    color: #609966;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.web_design{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.photography{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+    border-style: dotted none none;
+    width: 3%;
+    border-width: 5px;
+    border-color: grey ;
+
+} 
+.btn{
+    color: white;
+    text-decoration: none;
+    
+}
+button{
+    font-size: 1.08rem;
+    border-radius: 5px;
+    height: 2.2rem;
+    width: 9.2rem;
+    font-family: 'Montserrat';
+    background-color: #609966;
+    border: none;
+    margin-top: 2rem;
+  
+}
+.bottom-container{
+    height: 7rem;
+    margin-top: 2rem;
+    background-color:  #40513B;
+    position: relative;
+    margin-top: 5rem;
+    padding-top: 2rem;
+}
+.footer-link{
+    padding: 3rem;
+    text-decoration: none;
+}
+.copywrite{
+    padding-top: 2rem;
+    color: white;
+    margin-bottom: 3rem;
+}
+.contact-me{
+    padding-top: 3rem;
+}
+.skills{
+    padding-top: 3rem;
+}
+.profile{
+    padding-bottom: 3rem;
+}
+.profile-picture{
+    width: 16%;
+    padding-top: 4rem;
+}
+.skill-heading{
+    font-weight:bolder;
+}
+.myskills{
+    font-weight: bolder;
+}
